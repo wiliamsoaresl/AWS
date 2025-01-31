@@ -1,8 +1,8 @@
 Nome de usuário Informações
-Public DNS
-ec2-3-17-55-140.us-east-2.compute.amazonaws.com
+
+Host: ec2-3-17-55-140.us-east-2.compute.amazonaws.com
 
 
 
-Administrator
+User: Administrator
 Senha: VgduyBgtBN(Pwh?cYwcW0UWPTSDcW!P(
