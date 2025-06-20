@@ -6,3 +6,6 @@ Host: ec2-3-17-55-140.us-east-2.compute.amazonaws.com
 
 User: Administrator
 Senha: VgduyBgtBN(Pwh?cYwcW0UWPTSDcW!P(
+
+
+GET https://api.mercadolibre.com/sites/MLB/search?seller_id=ID_DO_FORNECEDOR
